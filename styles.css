@@ -108,3 +108,40 @@ header{
     height: 420px;
 }
 
+.feedback{
+    display: flex;
+    justify-content: space-between;
+    margin: 80px;
+    background: #F9B800;
+    border: solid 5px;
+    border-radius: 12px
+}
+
+.feed-img{
+    padding;40px;
+    margin-right: 50px;
+}
+
+.feed-img img{
+    width: 200px;
+    height: 200px;
+}
+
+.feed-text{
+    margin-top: 50px;
+}
+
+.feed-text h3{
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.feed-text p{
+    font-size: 10px;
+    margin-bottom: 10px;
+}
+
+.feed-text img{
+    margin: 10px 0px;
+    width: 44px;
+}
